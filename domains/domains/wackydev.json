@@ -1,0 +1,11 @@
+{
+    "description": "A website for a Minecraft developer's profile.",
+    "repo": "https://arzejames.github.io/WackyDevWebsite/",
+    "owner": {
+        "username": Arzejames",
+        "email": "turtles127855@gmail.com"
+    },
+    "record": {
+        "CNAME": "https://arzejames.github.io"
+    }
+} 
